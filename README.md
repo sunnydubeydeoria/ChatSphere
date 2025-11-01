@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://talk-with-you.vercel.app/
+**URL**: [https://talk-with-you.vercel.app/](https://chat-sphere-gold-nine.vercel.app/)
 
 ## How can I edit this code?
 
