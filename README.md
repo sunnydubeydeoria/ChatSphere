@@ -59,3 +59,4 @@ This project is built with:
 Simply open [vercel](https://vercel.com/) and click on Share -> Publish.
 
 
+Thanks for visit my repo
